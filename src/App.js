@@ -21,7 +21,7 @@ const App = () => {
       <Features />
       <SectionWrapper
         title="Deploymet"
-        description="MarketArt if built using Expo which runs natively on all users devices."
+        description="MarketArt is built using Expo which runs natively on all users devices."
         mockupImg={assets.feature}
         reverse
       />
