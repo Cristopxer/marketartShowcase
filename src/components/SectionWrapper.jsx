@@ -41,7 +41,7 @@ const SectionWrapper = ({
             {description}
           </p>
           {showBtn && (
-            <Button assetUrl={assets.expo} link="some random link :)" />
+            <Button assetUrl={assets.expo} link="https://expo.dev/@cristopxer/marketart" />
           )}
         </div>
         <div className={`flex-1 ${styles.flexCenter} p-8 sm:px-0`}>
